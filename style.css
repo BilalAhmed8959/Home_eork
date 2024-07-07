@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./Poppins/Poppins-Light.ttf);
+}
+#min{
+    border: 4px solid rgb(141, 135, 135);
+    width: 80%;
+    margin: 0 auto;
+}
+#min h4{
+    text-align: center;
+    margin-top: 50px;
+    font-family: poppins;
+    letter-spacing: o.4rem;
+}
+#min h1{
+    text-align: center;
+    font-family: poppins;
+    letter-spacing: 0.5rem;
+}
+.text_1{
+    text-align: center;
+    font-family: poppins;
+    letter-spacing: 0.4rem;
+}
+.box_1{
+    width: 500px;
+    height: 2px;
+    background: black;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+nav ul{
+    display: flex;
+    gap: 40px;
+    margin-top:20px ;
+    list-style: none;
+    margin-left: 260px;
+    font-family: poppins;
+}
+nav ul li{
+    text-align: center;
+
+}
+.box_2{
+        width: 500px;
+    height: 1px;
+    background: black;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.img img{
+    width: 200px;
+    height: 200px;
+    margin-top: 15px;
+    margin-left: -20px;
+}
+.img{
+    padding-left: 230px;
+}
+.text_3{
+    text-align: center;
+    letter-spacing: 0.1rem;
+    word-spacing: 0.1rem;
+    margin-bottom: 40px;
+}
